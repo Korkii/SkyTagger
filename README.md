@@ -25,7 +25,7 @@ Go to the project directory
 ```
 
 ### Installing SparceMask
-Create a folder inside `src` named `models`, inside it create another folder named `SparceMask`, and place the two files  `checkpoint_63750.pth` and `mask_thres_0.001.npy` inside it.
+Create a folder inside `src` named `models`, inside it create another folder named `SparseMask`, and place the two files  `checkpoint_63750.pth` and `mask_thres_0.001.npy` inside it.
 [The Open Earth Map Repo](https://github.com/cliffbb/oem-lightweight)
 
 
